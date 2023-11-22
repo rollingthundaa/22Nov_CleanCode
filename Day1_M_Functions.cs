@@ -76,5 +76,15 @@ public void CreateTempFile(string name)
   Touch("./temp/" + name);
 }
 
+review7.cs
+class DBConnection
+{
+    public dbConnection( IOptions<dbConnectionOptions> options)
+    {
+    }
+}
+
+
+
 
 
